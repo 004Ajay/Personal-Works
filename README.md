@@ -28,7 +28,7 @@
 
 * [Image Background Removal](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/Rembg)
 
-* [LCM & HCF](https://github.com/004Ajay/Python/tree/main/Personal/lcm_hcf.py)
+* [LCM & HCF](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/lcm_hcf.py)
 
 * [Password Generator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/PasswordGen.py)
 
