@@ -20,13 +20,13 @@
 
 * [Alphabet of Word Sorting](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/AlphaSort.py)
 
-* [Anagrams](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/anagrams.py)
+* [Anagrams](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/anagrams.py)
 
 * [Area of Geometric Shapes Calculator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/AreaOfShapes.py)
 
 * [FLAMES Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/FlamesGame.py)
 
-* [Image Background Removal](https://github.com/004Ajay/Python/tree/main/Personal/Rembg)
+* [Image Background Removal](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/Rembg)
 
 * [LCM & HCF](https://github.com/004Ajay/Python/tree/main/Personal/lcm_hcf.py)
 
@@ -36,7 +36,7 @@
 
 * [Quick Face Detection](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/QuickFaceDet.py)
 
-* [Simple Calculator](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/simpleCalculator.py)
+* [Simple Calculator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/simpleCalculator.py)
 
 
 ### Intermediate
@@ -45,7 +45,7 @@
 
 * [Jumbled Word Guessing Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/JumbledWordGame.py)
 
-* [Linear Search](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/LinearSearch.py)
+* [Linear Search](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/LinearSearch.py)
 
 * [Mp4 to Mp3](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/Mp4toMp3.py)
 
@@ -53,14 +53,14 @@
 
 * [Queue using Python](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/QueuePython.py)
 
-* [Text Wrap](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/TextWrap.py)
+* [Text Wrap](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/TextWrap.py)
 
-* [Tic Tac Toe Game](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/TicTacToe.py)
+* [Tic Tac Toe Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/TicTacToe.py)
 
 * [Word to Alphabet Number](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/WordToAlphaNumber.py)
 
 
-* [Guess the Number programs](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess)
+* [Guess the Number programs](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/NumberGuess)
 
   * [Guess the Number (Human)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessHuman.py)
 
@@ -86,12 +86,12 @@
 
 ### Object Oriented Programming (OOP)
 
-* [Class & Object](https://github.com/004Ajay/Personal-Works/tree/main/Python/Programs/OOP1.py)
+* [Class & Object](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/OOP1.py)
 
 
 ## Python Libraries
 
-* [NumPy](https://github.com/004Ajay/Personal-Works/tree/main/Python/Python%20Libraries/Numpy.ipynb)
+* [NumPy](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumPy.ipynb)
 
 
 ### Some class works made easy
@@ -105,7 +105,7 @@
 
 #### Joy of Computing using Python
 
-* [Folder of Programs](https://github.com/004Ajay/Python/tree/main/OTHER%20PROGRAMS)
+* [NPTEL JOC](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/NPTEL%20JOC)
 
 
 #### Python for Data Science
