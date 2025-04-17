@@ -45,6 +45,7 @@
 
   * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/NumberGuess/GuessComputer2.py)
 
+https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessComputer2.py
 
 ### Advanced
 
