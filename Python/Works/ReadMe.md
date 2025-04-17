@@ -2,57 +2,118 @@
 <img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>](https://www.google.com/search?q=python&rlz=1C1CHBF_enIN998IN998&oq=python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.3593j0j4&sourceid=chrome&ie=UTF-8)
 
 ## Personal Python Programs (PPP)
+### One Liners
 
-### One Liner or Easily written codes
+* [One Line Codes](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/OneLiners.py)
 
-* [One Line Codes](https://github.com/004Ajay/Python/blob/main/Personal/OneLiners.py)
+* [Star Pattern](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/StarPattern.py)
 
-* [Star Pattern](https://github.com/004Ajay/Python/blob/main/Personal/StarPattern.py)
 
-### Basic
+### Basics
 
-* [Alphabet of Word Sorting](https://github.com/004Ajay/Python/blob/main/Personal/AlphaSort.py)
+* [Alphabet of Word Sorting](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/AlphaSort.py)
 
-* [Area of Geometric Shapes Calculator](https://github.com/004Ajay/Python/blob/main/Personal/AreaOfShapes.py)
+* [Anagrams](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/anagrams.py)
 
-* [FLAMES Game](https://github.com/004Ajay/Python/blob/main/Personal/FlamesGame.py)
+* [Area of Geometric Shapes Calculator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/AreaOfShapes.py)
 
-* [Password Generator](https://github.com/004Ajay/Python/blob/main/Personal/PasswordGen.py)
+* [FLAMES Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/FlamesGame.py)
 
-* [Primes from random numbers](https://github.com/004Ajay/Python/blob/main/Personal/RandomListPrimes.py)
+* [Image Background Removal](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/Rembg)
+
+* [LCM & HCF](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/lcm_hcf.py)
+
+* [Password Generator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/PasswordGen.py)
+
+* [Primes from random numbers](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/RandomListPrimes.py)
+
+* [Quick Face Detection](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/QuickFaceDet.py)
+
+* [Simple Calculator](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/simpleCalculator.py)
 
 
 ### Intermediate
 
-* [Book Stock Keeping](https://github.com/004Ajay/Python/blob/main/Personal/BookStockDict.py)
+* [Book Stock Keeping](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/BookStockDict.py)
 
-* [Jumbled Word Guessing Game](https://github.com/004Ajay/Python/blob/main/Personal/JumbledWordGame.py)
+* [Jumbled Word Guessing Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/JumbledWordGame.py)
 
-* [Mp4 to Mp3](https://github.com/004Ajay/Python/blob/main/Personal/Mp4toMp3.py)
+* [Linear Search](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/LinearSearch.py)
 
-* [Stack using Python](https://github.com/004Ajay/Python/blob/main/Personal/StackPython.py)
+* [Mp4 to Mp3](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/Mp4toMp3.py)
 
-* [Queue using Python](https://github.com/004Ajay/Python/blob/main/Personal/QueuePython.py)
+* [Stack using Python](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/StackPython.py)
 
-* [Word to Alphabet Number](https://github.com/004Ajay/Python/blob/main/Personal/WordToAlphaNumber.py)
+* [Queue using Python](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/QueuePython.py)
+
+* [Text Wrap](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/TextWrap.py)
+
+* [Tic Tac Toe Game](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/TicTacToe.py)
+
+* [Word to Alphabet Number](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/WordToAlphaNumber.py)
 
 
-* [Guess the Number programs](https://github.com/004Ajay/Python/blob/main/Personal/NumberGuess)
+* [Guess the Number programs](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/NumberGuess)
 
-  * [Guess the Number (Human)](https://github.com/004Ajay/Python/blob/main/Personal/NumberGuess/GuessHuman.py)
+  * [Guess the Number (Human)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessHuman.py)
 
-  * [Guess the Number with limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/NumberGuess/GuessComputer.py)
+  * [Guess the Number with limit number (Computer)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessComputer.py)
 
-  * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Python/blob/main/Personal/NumberGuess/GuessComputer2.py)
+  * [Guess the Number with starting & limit number (Computer)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessComputer2.py)
 
 https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumberGuess/GuessComputer2.py
 
+* [Word Encoding](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/word_encode.py)
+
+* [YouTube to Mp3](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/YtVideoToMp3.py)
+
+
 ### Advanced
 
-* [Browser Searcher](https://github.com/004Ajay/Python/blob/main/Personal/browser_searcher.py)
+* [Browser Searcher](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/browser_searcher.py)
 
-* [Startup Speech for Windows Computer](https://github.com/004Ajay/Python/blob/main/Personal/StartSpeech.py)
+* [Startup Speech for Windows Computer](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/StartSpeech.py)
 
-* [Text to Speech (with file saving)](https://github.com/004Ajay/Python/blob/main/Personal/TextToSpeech.py)
+* [Text to Speech (with file saving)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/TextToSpeech.py)
 
-* [Timer with GUI](https://github.com/004Ajay/Python/blob/main/Personal/Timer_gui.py)
+* [Timer with GUI](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/Timer_gui.py)
+
+
+### Object Oriented Programming (OOP)
+
+* [Class & Object](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/OOP1.py)
+
+
+## Python Libraries
+
+* [NumPy](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/NumPy.ipynb)
+
+
+### Some class works made easy
+
+* [Coefficient of Determination (Statistics)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/CoeffOfDet.py)
+
+* [Correlation (Pearson r)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/CorrelationR.py)
+
+
+## External Courses
+
+#### Joy of Computing using Python
+
+* [NPTEL JOC](https://github.com/004Ajay/Personal-Works/tree/main/Python/Works/NPTEL%20JOC)
+
+
+#### Python for Data Science
+
+* [K Nearest Neighbours](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/KNN.py)
+
+* [Logistic Regression](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/LogisticRegression.py)
+
+* [Regression](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/Regression.py)
+
+
+## Datasets
+
+* [Income CSV File (Py for DS)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/income.csv)
+
+* [Cars Sample CSV File (Py for DS)](https://github.com/004Ajay/Personal-Works/blob/main/Python/Works/cars_sampled.csv)
